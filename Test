@@ -1,0 +1,8 @@
+% mkdir testinggit
+% cd testinggit
+% git init
+# make a file...
+% git add .
+% git commit -minit
+% git remote add origin git@github.com:myusername/testing.git
+% git push origin @
